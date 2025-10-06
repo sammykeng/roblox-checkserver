@@ -1,5 +1,5 @@
 {
-"name": "roblox-webhook-server",
+"name": "roblox-checkserver",
 "version": "1.0.0",
 "main": "index.js",
 "scripts": {
